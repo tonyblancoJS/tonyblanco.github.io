@@ -1,3 +1,4 @@
+/*
 document.getElementById("inicio").addEventListener('mousedown', function(){
     document.getElementById('inicio').style.background ='black';
 });
@@ -88,4 +89,4 @@ document.getElementById("icon-cui").addEventListener('mouseout', function(){
 });
 
 
-
+*/

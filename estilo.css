@@ -39,8 +39,8 @@ header{
 }
 
 a.boton:hover {
-    opacity: 0.6;
-    border: 2px solid black;
+    color:white;
+    background-color: blue ;
 }
 
 nav span {
